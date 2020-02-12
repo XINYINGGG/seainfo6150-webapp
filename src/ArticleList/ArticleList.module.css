@@ -1,0 +1,23 @@
+body {
+    background-color: darkgray;
+    border-style:dashed;
+    border-width: 0.1px;
+    border-color: dimgray;
+}
+li{
+    list-style: none;
+    background-color: rgb(241,241,233);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(218,0,0);
+    margin: 20px 20px 0px -10px;
+}
+h2{
+    color:rgb(218,0,0);
+    margin:10px 10px 10px 10px;
+    font-size: 30px;
+
+}
+p{
+    margin: 10px 10px 10px 10px;
+}
