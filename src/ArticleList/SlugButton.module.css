@@ -1,0 +1,7 @@
+button{
+    background-color: rgb(218, 0, 0);
+    color: white;
+    border-width: 1px;
+    float: right;
+    font-size: 15px;
+}
